@@ -1,0 +1,17 @@
+html,
+body {
+  font-family: "Open Sans", "sans-serif";
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  margin: 0;
+  height: 50px;
+  padding: 25px 0 10px 0;
+  width: 300px;
+  background-color: #fdfdfd;
+  border: 2px solid black;
+  text-align: center;
+}
