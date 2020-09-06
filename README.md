@@ -13,3 +13,5 @@ An extension that turns images of a web page into a cat picture
   - Go to chrome://extensions
   - Locate Catinator
   - Toggle it off or remove
+    
+Go to youtube to test
